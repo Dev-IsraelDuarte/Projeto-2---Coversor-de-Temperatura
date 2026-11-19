@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {}
+    "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj": {
@@ -70,14 +70,14 @@
         }
       }
     },
-    "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {
+    "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
         "projectName": "ConversorTemperatura.Tests",
-        "projectPath": "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+        "projectPath": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
         "packagesPath": "C:\\Users\\wcc_devs\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\obj\\",
+        "outputPath": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
