@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversorTemperatura.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9425b905acf390b88472cfc5fdf00955ff0ae3e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a34bbb36fb4db4bc6169b722b70ed50c10f6978e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversorTemperatura.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversorTemperatura.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
