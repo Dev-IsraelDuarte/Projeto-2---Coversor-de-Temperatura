@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ConversorTemperatura.App;
+
+var conversor = new Conversor();
+
+Console.Write("Temperatura em Celsius: ");
+double c = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine($"Fahrenheit: {conversor.ParaFahrenheit(c):F1}");
