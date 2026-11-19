@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ConversorTemperatura.App\ConversorTemperatura.App.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ConversorTemperatura.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ConversorTemperatura.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConversorTemperatura.App.dll": {}
+        }
       }
     }
   },
@@ -932,10 +942,16 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ConversorTemperatura.App/1.0.0": {
+      "type": "project",
+      "path": "../ConversorTemperatura.App/ConversorTemperatura.App.csproj",
+      "msbuildProject": "../ConversorTemperatura.App/ConversorTemperatura.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "ConversorTemperatura.App >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -949,11 +965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
       "projectName": "ConversorTemperatura.Tests",
-      "projectPath": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+      "projectPath": "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
       "packagesPath": "C:\\Users\\wcc_devs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\obj\\",
+      "outputPath": "c:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -974,7 +990,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj": {
+              "projectPath": "C:\\Users\\wcc_devs\\Desktop\\projetos Csharp\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
